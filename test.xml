@@ -1,0 +1,8 @@
+<?xml version=1.0 encoding=UTF-8?> 
+<java version=1.8.0_151> 
+<Home> 
+<floor type = int value = 3/> 
+<window type = int value = 10/> 
+<live type = boolean value = true/> 
+<addres type = String value = Baker street №1/> 
+</Home> 

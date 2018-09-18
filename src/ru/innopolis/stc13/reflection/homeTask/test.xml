@@ -1,0 +1,7 @@
+<?xml version=1.0 encoding=UTF-8?> <java version=1.8.0_151> 
+<ru.innopolis.stc13.reflection.homeTask.Home> 
+<floor type = "int" value = "3"/> 
+<window type = "int" value = "10"/> 
+<live type = "boolean" value = "true"/> 
+<address type = "String" value = "Baker street 101"/> 
+</ru.innopolis.stc13.reflection.homeTask.Home> 
